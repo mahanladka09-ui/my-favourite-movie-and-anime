@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Attack on Titan",
+    "category": "Anime",
+    "review": "Epic and emotional story with amazing animation!",
+    "rating": 9.5
+  },
+  {
+    "id": 2,
+    "name": "Inception",
+    "category": "Movie",
+    "review": "Mind-bending and brilliantly directed!",
+    "rating": 9.4
+  },
+  {
+    
+  }
+]
